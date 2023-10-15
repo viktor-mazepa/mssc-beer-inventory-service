@@ -1,5 +1,6 @@
-package guru.sfg.brewery.model.events;
+package com.mazasoft.msscbrewery.events;
 
+import guru.sfg.brewery.model.events.BeerDto;
 import lombok.NoArgsConstructor;
 
 /**
